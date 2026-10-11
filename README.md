@@ -1,2 +1,0 @@
-# PL-project
-C language
